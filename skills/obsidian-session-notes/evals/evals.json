@@ -1,0 +1,20 @@
+{
+  "skill_name": "obsidian-session-notes",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "总结这次 Expo 环境搭建，把配置、验证结果和关键命令写成 Obsidian 笔记，并关联到 Expo 知识地图。",
+      "expected_output": "A dated session note under the vault with frontmatter, commands, verification results, and a working link to Expo 知识地图."
+    },
+    {
+      "id": 2,
+      "prompt": "把当前对话整理成一篇会话纪要，重点保留决策、文件路径和待办，不要逐字复制聊天。",
+      "expected_output": "A concise, linked session note that omits secrets and raw noise while preserving decisions and next steps."
+    },
+    {
+      "id": 3,
+      "prompt": "归档这次调试过程到 Obsidian，并在开发知识库的会话记录里加一个入口。",
+      "expected_output": "A new note plus an appended link in the relevant index, with a passing wikilink check."
+    }
+  ]
+}

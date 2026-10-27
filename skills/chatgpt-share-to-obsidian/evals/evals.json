@@ -1,0 +1,38 @@
+{
+  "skill_name": "chatgpt-share-to-obsidian",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "把这个 ChatGPT 分享链接按原章节逐字整理成 Obsidian 笔记，放到 /Users/gao/sweetsunnyflower/新主题：https://chatgpt.com/share/6ae01fdf-62f0-83ee-85a8-1d2ec0af6e07",
+      "expected_output": "打开本机 Chrome，提取最终合并回答，按章节生成逐字笔记和知识地图，并完成来源一致性检查。",
+      "files": [],
+      "expectations": [
+        "在 Chrome 中实际打开并确认分享链接",
+        "正文逐字保留且隐藏流式片段不重复",
+        "每章一篇并生成知识地图",
+        "验证失败时不报告成功"
+      ]
+    },
+    {
+      "id": 2,
+      "prompt": "把这个 ChatGPT 分享链接整理到 /Users/gao/sweetsunnyflower/计算机基础，保护已有文件：https://chatgpt.com/share/6a7af5e5-c9b4-83ee-a8b8-b75c53e8214a",
+      "expected_output": "根据清单安全更新，检测未管理的同名文件冲突，不覆盖用户笔记。",
+      "files": [],
+      "expectations": [
+        "同一来源可幂等更新",
+        "未管理文件冲突时停止写入",
+        "生成与源对话一致的章节正文"
+      ]
+    },
+    {
+      "id": 3,
+      "prompt": "把这个链接按章节做成笔记。https://chatgpt.com/share/6ae01fdf-62f0-83ee-85a8-1d2ec0af6e07",
+      "expected_output": "仅询问缺失的存放目录，不要求用户重复提供链接或其他章节配置。",
+      "files": [],
+      "expectations": [
+        "只提出一个必要问题",
+        "不开始写入未知目录"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+{
+  "main": {
+    "id": "5697fc60f61b60cd",
+    "type": "split",
+    "children": [
+      {
+        "id": "19771248d2e5c5f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bbac1d56732defb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Harness Engineering 导论与学习路线"
+            },
+            "group": "917bcf83036925b3"
+          }
+        ]
+      },
+      {
+        "id": "283813a3649a1fa4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a8bb18e64d6537",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "00 Harness Engineering 导论与学习路线 的关系图"
+            },
+            "group": "917bcf83036925b3"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4e69ded21369f9cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "36b5106ea1538427",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3690dd91c6c71ac",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "9811d28a2a29ac67",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e89d7f4c34549e3e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 404.1484375
+  },
+  "right": {
+    "id": "34dd780ffcef9da8",
+    "type": "split",
+    "children": [
+      {
+        "id": "e54506fd8e7b5402",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faf6ad77b8b03f20",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "c6e64df0d21b44f3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b5712bcb10dca349",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "0134b5c75bdc6f52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "76bf65de5426dcc1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "82d668fcccdaa698",
+            "type": "leaf",
+            "state": {
+              "type": "codex-panel-view",
+              "state": {
+                "version": 1
+              },
+              "icon": "bot-message-square",
+              "title": "Codex"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "codex-panel:Open panel": false
+    }
+  },
+  "active": "bbac1d56732defb7",
+  "lastOpenFiles": [
+    "skills/chatgpt-share-to-obsidian/SKILL.md",
+    "skills/chatgpt-share-to-obsidian/scripts/verify_notes.js",
+    "skills/chatgpt-share-to-obsidian/scripts/update_obsidian_index.js",
+    "skills/chatgpt-share-to-obsidian/scripts/extract_chatgpt_share.js",
+    "skills/chatgpt-share-to-obsidian/scripts/e2e_local.js",
+    "skills/chatgpt-share-to-obsidian/scripts/build_obsidian_notes.js",
+    "skills/chatgpt-share-to-obsidian/scripts",
+    "skills/chatgpt-share-to-obsidian/tests/verify.test.js",
+    "skills/chatgpt-share-to-obsidian/tests/obsidian.test.js",
+    "skills/chatgpt-share-to-obsidian/tests/extract.test.js",
+    "skills/chatgpt-share-to-obsidian/tests/e2e.test.js",
+    "skills/chatgpt-share-to-obsidian/references/chatgpt-share-format.md",
+    "工具/ChatGPT Share to Obsidian Skill.md",
+    "skills/obsidian-session-notes/SKILL.md",
+    "工具/Obsidian Knowledge System Skill.md",
+    "skills/obsidian-session-notes/assets/session-note-template.md",
+    "skills/obsidian-session-notes/references/vault-conventions.md",
+    "skills/obsidian-knowledge-system/assets/troubleshooting-template.md",
+    "skills/obsidian-knowledge-system/assets/moc-template.md",
+    "skills/obsidian-knowledge-system/assets/how-to-template.md",
+    "skills/obsidian-knowledge-system/assets/concept-note-template.md",
+    "skills/obsidian-knowledge-system/SKILL.md",
+    "skills/obsidian-knowledge-system/references/vault-conventions.md",
+    "skills/obsidian-knowledge-system/references/topic-blueprint.md",
+    "skills/obsidian-knowledge-system/references/source-policy.md",
+    "Harness/03 Harness 第三课 - 并发、超时与权限控制.md",
+    "Harness/02 Harness 第二课 - Tool Runtime.md",
+    "Harness/01 Harness 第一课 - Agent Loop.md",
+    "计算机基础/计算机基础 知识地图.md",
+    "Harness/Harness 知识地图.md",
+    "Harness/13 Harness 第十三课 - 状态机、事件驱动与并发调度.md",
+    "Harness/12 Harness 第十二课 - 任务规划、执行循环与完成判定.md",
+    "Harness/11 Harness 第十一课 - 工具结果、结构化输出与验证.md",
+    "Harness/10 Harness 第十课 - Sandbox 与工具隔离.md",
+    "Harness/09 Harness 第九课 - 权限系统与 Human-in-the-Loop.md",
+    "Harness/08 Harness 第八课 - 错误处理与重试策略.md",
+    "未命名.canvas"
+  ]
+}

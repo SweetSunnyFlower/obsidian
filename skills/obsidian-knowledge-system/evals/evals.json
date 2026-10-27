@@ -1,0 +1,20 @@
+{
+  "skill_name": "obsidian-knowledge-system",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "在 /Users/gao/sweetsunnyflower 下新建一套 Docker 知识体系，适合有 Linux 基础的后端开发者，包含知识地图、核心概念、Dockerfile、Compose、网络、存储、安全、排错和命令速查。",
+      "expected_output": "A linked Docker knowledge map and a compact set of substantive notes, with sources and passing wikilinks."
+    },
+    {
+      "id": 2,
+      "prompt": "根据 Docker 官方文档整理一个面向初学者的学习路线，并生成可以直接在 Obsidian 中阅读的笔记体系。",
+      "expected_output": "A beginner-oriented MOC with reading order, official sources, and linked notes without duplicate stubs."
+    },
+    {
+      "id": 3,
+      "prompt": "把这份 Kubernetes 官方文档链接整理成知识体系，重点保留核心模型、常用命令和排错路径。",
+      "expected_output": "A source-backed Kubernetes knowledge system with a MOC, concept notes, command reference, troubleshooting, and verified links."
+    }
+  ]
+}
