@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "file": "Harness/Harness 知识地图.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Harness Engineering 导论与学习路线"
+              "title": "Harness 知识地图"
             },
             "group": "917bcf83036925b3"
           }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "file": "Harness/Harness 知识地图.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "00 Harness Engineering 导论与学习路线 的关系图"
+              "title": "Harness 知识地图 的关系图"
             },
             "group": "917bcf83036925b3"
           }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "file": "计算机基础/计算机基础 知识地图.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "file": "计算机基础/计算机基础 知识地图.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Harness/00 Harness Engineering 导论与学习路线.md",
+                "file": "计算机基础/计算机基础 知识地图.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -249,6 +249,10 @@
   },
   "active": "bbac1d56732defb7",
   "lastOpenFiles": [
+    "计算机基础/计算机基础 知识地图.md",
+    "计算机基础/15 操作系统第06课 - epoll 原理.md",
+    "计算机基础/07 数据结构第06课 - 堆.md",
+    "Harness/00 Harness Engineering 导论与学习路线.md",
     "skills/chatgpt-share-to-obsidian/SKILL.md",
     "skills/chatgpt-share-to-obsidian/scripts/verify_notes.js",
     "skills/chatgpt-share-to-obsidian/scripts/update_obsidian_index.js",
@@ -277,14 +281,10 @@
     "Harness/03 Harness 第三课 - 并发、超时与权限控制.md",
     "Harness/02 Harness 第二课 - Tool Runtime.md",
     "Harness/01 Harness 第一课 - Agent Loop.md",
-    "计算机基础/计算机基础 知识地图.md",
     "Harness/Harness 知识地图.md",
     "Harness/13 Harness 第十三课 - 状态机、事件驱动与并发调度.md",
     "Harness/12 Harness 第十二课 - 任务规划、执行循环与完成判定.md",
     "Harness/11 Harness 第十一课 - 工具结果、结构化输出与验证.md",
-    "Harness/10 Harness 第十课 - Sandbox 与工具隔离.md",
-    "Harness/09 Harness 第九课 - 权限系统与 Human-in-the-Loop.md",
-    "Harness/08 Harness 第八课 - 错误处理与重试策略.md",
     "未命名.canvas"
   ]
 }
